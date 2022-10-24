@@ -8,7 +8,7 @@ body {
 .header {
     padding-top: 70px;
     padding-bottom: 70px;
-    background-image: url(images/bodybg.jpg);
+    background-image: url(bodybg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -68,7 +68,7 @@ nav {
     height: 40%;
     padding-top: 120px;
     padding-bottom: 200px;
-    background-image: url(images/main_image.jpg);
+    background-image: url(main_image.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     
@@ -182,7 +182,7 @@ footer img {
    padding: 5px;
    border: 5px solid red;
    border-style: ridge;
-   background-image: url(images/body_2.jpg);
+   background-image: url(body_2.jpg);
    background-size: cover;
    background-repeat: no-repeat;
    color: whitesmoke;
